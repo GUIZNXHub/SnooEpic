@@ -118,7 +118,7 @@ if Existing then
 end
 
 local Gui = Instance.new("ScreenGui")
-Gui.Name = "SnooHub6"
+Gui.Name = "Snoo Hub🕷️"
 Gui.ResetOnSpawn = false
 Gui.IgnoreGuiInset = true
 Gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
